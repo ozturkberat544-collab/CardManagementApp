@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="CardManagementApp.Tests/CardManagementApp.Tests.csproj" Id="aa65d8b6-e8db-4db1-b838-6ae9848e1972" />
   <Project Path="CardManagementApp/CardManagementApp.csproj" />
 </Solution>
